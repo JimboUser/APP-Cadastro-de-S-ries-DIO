@@ -1,0 +1,16 @@
+C:\DioWorks\SeriesRegistration.app\bin\Debug\net5.0\SeriesRegistration.app.exe
+C:\DioWorks\SeriesRegistration.app\bin\Debug\net5.0\SeriesRegistration.app.deps.json
+C:\DioWorks\SeriesRegistration.app\bin\Debug\net5.0\SeriesRegistration.app.runtimeconfig.json
+C:\DioWorks\SeriesRegistration.app\bin\Debug\net5.0\SeriesRegistration.app.runtimeconfig.dev.json
+C:\DioWorks\SeriesRegistration.app\bin\Debug\net5.0\SeriesRegistration.app.dll
+C:\DioWorks\SeriesRegistration.app\bin\Debug\net5.0\ref\SeriesRegistration.app.dll
+C:\DioWorks\SeriesRegistration.app\bin\Debug\net5.0\SeriesRegistration.app.pdb
+C:\DioWorks\SeriesRegistration.app\obj\Debug\net5.0\SeriesRegistration.app.csproj.AssemblyReference.cache
+C:\DioWorks\SeriesRegistration.app\obj\Debug\net5.0\SeriesRegistration.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\DioWorks\SeriesRegistration.app\obj\Debug\net5.0\SeriesRegistration.app.AssemblyInfoInputs.cache
+C:\DioWorks\SeriesRegistration.app\obj\Debug\net5.0\SeriesRegistration.app.AssemblyInfo.cs
+C:\DioWorks\SeriesRegistration.app\obj\Debug\net5.0\SeriesRegistration.app.csproj.CoreCompileInputs.cache
+C:\DioWorks\SeriesRegistration.app\obj\Debug\net5.0\SeriesRegistration.app.dll
+C:\DioWorks\SeriesRegistration.app\obj\Debug\net5.0\ref\SeriesRegistration.app.dll
+C:\DioWorks\SeriesRegistration.app\obj\Debug\net5.0\SeriesRegistration.app.pdb
+C:\DioWorks\SeriesRegistration.app\obj\Debug\net5.0\SeriesRegistration.app.genruntimeconfig.cache
